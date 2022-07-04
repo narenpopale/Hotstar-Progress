@@ -1,0 +1,11 @@
+.srh1{
+    width: 25vw;  
+    padding: 3px;
+    background-color: var(--main-bg-color);
+    color: #aca9a9;  
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #aca9a9;
+    outline: none;
+}
